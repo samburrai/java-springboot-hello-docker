@@ -34,7 +34,7 @@ public class DemoApplication {
       simpleDateFormat = new SimpleDateFormat(pattern);
       String stringNow = simpleDateFormat.format(new Date());
 
-      String msg = "Hello";
+      String msg = "Aloha";
 
       System.out.println(msg + ": " + cnt);
 
